@@ -59,6 +59,7 @@ header nav ul li a:hover {
 .hero-image {
     width: 300px; /* Tamaño de la imagen */
     height: 300px; /* Hace la imagen redonda */
+     border-radius: 50%; /* Hace la imagen redonda */
     border: 4px solid #fff; /* Borde blanco */
     margin-bottom: 20px; /* Espacio debajo de la imagen */
 }
